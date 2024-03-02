@@ -1,0 +1,248 @@
+# Translation of Plugins - Sticky Header Effects for Elementor - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Sticky Header Effects for Elementor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-03 08:40:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Sticky Header Effects for Elementor - Stable (latest release)\n"
+
+#: modules/transparent/module.php:362
+msgid "Please select <b>only 1 option</b> for each tab"
+msgstr "Sélectionner <b>seulement 1 option</b> pour chaque onglet"
+
+#: modules/transparent/module.php:77
+msgid ""
+"This will completely enable/disable settings below.<br>\n"
+"\t\t\t\t*MAY NOT AFFECT SOME SETTINGS WITH RESPONSIVE CONTROLS"
+msgstr "Cela activera/désactivera complètement les réglages ci-dessous.<br>*PEUT NE PAS AFFECTER CERTAINS RÉGLAGES AVEC DES CONTRÔLES RESPONSIFS"
+
+#: modules/transparent/module.php:306
+msgid "Resize logo after scrolling"
+msgstr "Redimensionner le logo après le défilement"
+
+#: modules/transparent/module.php:589
+msgid "WARNING: This might break section/container entrance animations"
+msgstr "AVERTISSEMENT : cela peut interrompre les animations d’entrée de section/conteneur"
+
+#: modules/transparent/module.php:615
+msgid "Choose the scroll distance to start hiding the header"
+msgstr "Choisir la distance de défilement pour commencer à masquer l’en-tête"
+
+#: modules/transparent/module.php:578
+msgid "Hides the header if scrolling down, and shows header if scrolling up"
+msgstr "Masque l’en-tête en cas de défilement vers le bas et affiche l’en-tête si vous faites défiler vers le haut"
+
+#: modules/transparent/module.php:570
+msgid "Hide header on scroll down"
+msgstr "Masquer l’en-tête lors du défilement vers le bas"
+
+#: modules/transparent/module.php:563
+msgid "Add a modern blur effect to a semi-transparent header background color after scrolling"
+msgstr "Ajouter un effet de flou moderne à une couleur d’arrière-plan d’en-tête semi-transparente après le défilement"
+
+#: modules/transparent/module.php:530
+msgid "Removes all filters to allow a full color logo image"
+msgstr "Retire tous les filtres pour autoriser une image de logo en couleur"
+
+#: modules/transparent/module.php:523
+msgid "Full Color Logo"
+msgstr "Logo en couleur"
+
+#: modules/transparent/module.php:454
+msgid "After Scrolling"
+msgstr "Après le défilement"
+
+#: modules/transparent/module.php:431 modules/transparent/module.php:502
+msgid "Change the logo to black"
+msgstr "Changer le logo en noir"
+
+#: modules/transparent/module.php:424 modules/transparent/module.php:495
+msgid "Black Logo"
+msgstr "Logo noir"
+
+#: modules/transparent/module.php:403 modules/transparent/module.php:474
+msgid "Change the logo to white"
+msgstr "Changer le logo en blanc"
+
+#: modules/transparent/module.php:396 modules/transparent/module.php:467
+msgid "White Logo"
+msgstr "Logo blanc"
+
+#: modules/transparent/module.php:383
+msgid "Before scrolling"
+msgstr "Avant de faire défiler"
+
+#: modules/transparent/module.php:342
+msgid "Change Logo Color"
+msgstr "Modifier la couleur du logo"
+
+#: modules/transparent/module.php:316
+msgid "Logo Height (%)"
+msgstr "Hauteur du logo (%)"
+
+#: modules/transparent/module.php:298
+msgid "Shrink Logo"
+msgstr "Réduire le logo"
+
+#: modules/transparent/module.php:286
+msgid "Remember: The header cannot shrink smaller than the elements inside of it"
+msgstr "Rappelez-vous : l’en-tête ne peut pas rétrécir plus petit que les éléments à l’intérieur de celui-ci"
+
+#: modules/transparent/module.php:274
+msgid "Header Height (px)"
+msgstr "Hauteur de l’en-tête (px)"
+
+#: modules/transparent/module.php:256
+msgid "Shrink Header"
+msgstr "Réduire l’en-tête"
+
+#: modules/transparent/module.php:167
+msgid "Background Color"
+msgstr "Сouleur d’arrière-plan"
+
+#: modules/transparent/module.php:153
+msgid "Above Header Sections"
+msgstr "Sections d’en-tête ci-dessus"
+
+#: modules/transparent/module.php:140
+msgid "IMPORTANT: This will make the header overlap the main page so extra spacing at the top of sections may be necesary. **May only work on frontend"
+msgstr "IMPORTANT : cela fera en sorte que l’en-tête chevauchera la page principale, de sorte qu’un espacement supplémentaire en haut des sections peut être nécessaire. **Ne peut fonctionner que sur le site en ligne"
+
+#: modules/transparent/module.php:133
+msgid "Sets the header position to \"absolute\" so negative margins are not needed"
+msgstr "Définit la position de l’en-tête sur « absolu » afin que les marges négatives ne soient pas nécessaires"
+
+#: modules/transparent/module.php:50
+msgid "IMPORTANT: This plugin does NOT control the sticky position of the header. Please use the above Motion Effects tab sticky options to make the header sticky"
+msgstr "IMPORTANT : cette extension ne contrôle PAS la position épinglée de l’en-tête. Veuillez utiliser les options d’épinglage de l’onglet Effets de mouvement ci-dessus pour rendre l’en-tête épinglé"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://stickyheadereffects.com"
+msgstr "https://stickyheadereffects.com"
+
+#. Author of the plugin
+msgid "Rwattner"
+msgstr "Rwattner"
+
+#. Description of the plugin
+msgid "Options and features that extend Elementor Pro's sticky header capabilities."
+msgstr "Options et fonctionnalités qui étendent les permissions d’en-tête épinglé d’Elementor Pro."
+
+#. Plugin Name of the plugin
+msgid "Sticky Header Effects for Elementor"
+msgstr "Sticky Header Effects for Elementor"
+
+#: sticky-header-effects-for-elementor.php:123
+msgid "A new version of Elementor is available. For better performance and compatibility of Sticky Header Effects, we recommend updating to the latest version."
+msgstr "Une nouvelle version d’Elementor est disponible. Pour améliorer les performances et la compatibilité de Sticky Header Effects, nous vous recommandons de mettre à jour à la dernière version."
+
+#: sticky-header-effects-for-elementor.php:110
+#: sticky-header-effects-for-elementor.php:124
+msgid "Update Elementor Now"
+msgstr "Mettre à jour Elementor maintenant"
+
+#: sticky-header-effects-for-elementor.php:109
+msgid "Sticky Header Effects not working because you are using an old version of Elementor."
+msgstr "Sticky Header Effects ne fonctionne pas car vous utilisez une ancienne version d’Elementor."
+
+#: sticky-header-effects-for-elementor.php:95
+msgid "Install Elementor Now"
+msgstr "Installez Elementor maintenant"
+
+#: sticky-header-effects-for-elementor.php:94
+msgid "Sticky Header Effects is not working because you need to install the Elementor plugin"
+msgstr "Sticky Header Effects ne fonctionne pas car vous devez installer l’extension Elementor"
+
+#: sticky-header-effects-for-elementor.php:86
+msgid "Activate Elementor Now"
+msgstr "Activer Elementor maintenant"
+
+#: sticky-header-effects-for-elementor.php:85
+msgid "Sticky Header Effects not working because you need to activate the Elementor plugin."
+msgstr "Sticky Header Effects ne fonctionne pas car vous devez activer l’extension Elementor."
+
+#: modules/transparent/module.php:264
+msgid "Choose header height after scrolling"
+msgstr "Choisir la hauteur du logo après le défilement"
+
+#: modules/transparent/module.php:210
+msgid "Choose bottom border size and color"
+msgstr "Choisir la taille et la couleur de la bordure inférieure"
+
+#: modules/transparent/module.php:199
+msgid "Bottom Border"
+msgstr "Bordure inférieure"
+
+#: modules/transparent/module.php:185 modules/transparent/module.php:218
+msgid "Color"
+msgstr "Couleur"
+
+#: modules/transparent/module.php:122
+msgid "Transparent Header"
+msgstr "En-tête transparent"
+
+#: modules/transparent/module.php:110
+msgid "Remember: The settings below will not be applied until the page is scrolled the distance set above"
+msgstr "Rappelez-vous : les réglages ci-dessous ne seront pas appliqués tant que la page n’aura pas défilé à la distance fixée ci-dessus"
+
+#: modules/transparent/module.php:99
+msgid "Choose the scroll distance to enable Sticky Header Effects"
+msgstr "Choisir la distance de défilement pour activer les effets d’en-tête épinglée."
+
+#: modules/transparent/module.php:87 modules/transparent/module.php:603
+msgid "Scroll Distance (px)"
+msgstr "Distance de défilement (px)"
+
+#: modules/transparent/module.php:71
+msgid "Mobile"
+msgstr "Mobile"
+
+#: modules/transparent/module.php:70
+msgid "Tablet"
+msgstr "Tablette"
+
+#: modules/transparent/module.php:69
+msgid "Desktop"
+msgstr "Bureau"
+
+#: modules/transparent/module.php:63
+msgid "Enable On"
+msgstr "Activer sur"
+
+#: modules/transparent/module.php:39 modules/transparent/module.php:126
+#: modules/transparent/module.php:171 modules/transparent/module.php:203
+#: modules/transparent/module.php:260 modules/transparent/module.php:302
+#: modules/transparent/module.php:346 modules/transparent/module.php:399
+#: modules/transparent/module.php:427 modules/transparent/module.php:470
+#: modules/transparent/module.php:498 modules/transparent/module.php:526
+#: modules/transparent/module.php:556 modules/transparent/module.php:574
+msgid "Off"
+msgstr "Inactif"
+
+#: modules/transparent/module.php:38 modules/transparent/module.php:125
+#: modules/transparent/module.php:170 modules/transparent/module.php:202
+#: modules/transparent/module.php:259 modules/transparent/module.php:301
+#: modules/transparent/module.php:345 modules/transparent/module.php:398
+#: modules/transparent/module.php:426 modules/transparent/module.php:469
+#: modules/transparent/module.php:497 modules/transparent/module.php:525
+#: modules/transparent/module.php:555 modules/transparent/module.php:573
+msgid "On"
+msgstr "Actif"
+
+#: modules/transparent/module.php:36
+msgid "Enable"
+msgstr "Activer"
+
+#: modules/transparent/module.php:28 plugin.php:133
+msgid "Sticky Header Effects"
+msgstr "Sticky Header Effects"
+
+#: base/module-base.php:33 base/module-base.php:44 plugin.php:44 plugin.php:55
+msgid "Cheatin&#8217; huh?"
+msgstr "Une fausse manipulation ?"
